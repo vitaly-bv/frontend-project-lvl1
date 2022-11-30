@@ -1,10 +1,4 @@
-// #!/usr/bin/env node
-
-// import brain-games-even from '../src/games/brain-games-even.js';
-
-// brain-games-even();
-
-// var readlineSync = require('readline-sync');
+#!/usr/bin/env node
 
 import readlineSync from 'readline-sync';
 
