@@ -24,4 +24,4 @@ const gameCondition = () => {
 
 export default () => {
   gamelogic('What is the result of the expression?', gameCondition);
-}
+};
