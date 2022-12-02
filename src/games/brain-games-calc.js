@@ -22,6 +22,6 @@ const gameCondition = () => {
   return [askQuestion, String(correctAnswer)];
 };
 
-export default function greeting () {
+export default function greeting() {
   gamelogic('What is the result of the expression?', gameCondition);
-};
+}

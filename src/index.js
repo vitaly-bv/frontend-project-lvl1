@@ -1,5 +1,3 @@
-//  вынос логикой, приветствием, счетчиком
-
 import readlineSync from 'readline-sync';
 
 const gamelogic = (gameMessage, gameCondition) => {
